@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 826a9994c222c3f4585d868c97c0698f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone_001
+    100006: Bone_002
+    100008: Bone_003
+    100010: Bone_004
+    100012: Cylinder
+    100014: leaf
+    100016: leaf_001
+    100018: leaf_002
+    100020: leaf_003
+    100022: leaf_004
+    100024: leaf_005
+    100026: leaf_006
+    100028: leaf_007
+    100030: leaf_008
+    100032: leaf_009
+    100034: leaf_010
+    100036: leaf_011
+    100038: leaf_012
+    100040: leaf_013
+    100042: leaf_014
+    100044: leaf_015
+    100046: leaf_016
+    100048: leaf_017
+    100050: leaf_018
+    100052: leaf_019
+    100054: leaf_020
+    100056: leaf_021
+    100058: leaf_022
+    100060: leaf_023
+    100062: leaf_024
+    100064: leaf_025
+    100066: leaf_026
+    100068: //RootNode
+    400000: Armature
+    400002: Bone
+    400004: Bone_001
+    400006: Bone_002
+    400008: Bone_003
+    400010: Bone_004
+    400012: Cylinder
+    400014: leaf
+    400016: leaf_001
+    400018: leaf_002
+    400020: leaf_003
+    400022: leaf_004
+    400024: leaf_005
+    400026: leaf_006
+    400028: leaf_007
+    400030: leaf_008
+    400032: leaf_009
+    400034: leaf_010
+    400036: leaf_011
+    400038: leaf_012
+    400040: leaf_013
+    400042: leaf_014
+    400044: leaf_015
+    400046: leaf_016
+    400048: leaf_017
+    400050: leaf_018
+    400052: leaf_019
+    400054: leaf_020
+    400056: leaf_021
+    400058: leaf_022
+    400060: leaf_023
+    400062: leaf_024
+    400064: leaf_025
+    400066: leaf_026
+    400068: //RootNode
+    2100000: Material_002
+    2100002: Material_003
+    2300000: leaf
+    2300002: leaf_001
+    2300004: leaf_004
+    2300006: leaf_006
+    2300008: leaf_008
+    2300010: leaf_010
+    2300012: leaf_012
+    2300014: leaf_020
+    2300016: leaf_024
+    2300018: leaf_025
+    2300020: leaf_026
+    3300000: leaf
+    3300002: leaf_001
+    3300004: leaf_004
+    3300006: leaf_006
+    3300008: leaf_008
+    3300010: leaf_010
+    3300012: leaf_012
+    3300014: leaf_020
+    3300016: leaf_024
+    3300018: leaf_025
+    3300020: leaf_026
+    4300000: leaf_023
+    4300002: leaf_022
+    4300004: leaf_021
+    4300006: leaf_019
+    4300008: leaf_018
+    4300010: leaf_017
+    4300012: leaf_016
+    4300014: leaf_015
+    4300016: leaf_014
+    4300018: leaf_013
+    4300020: leaf_011
+    4300022: leaf_009
+    4300024: leaf_007
+    4300026: leaf_005
+    4300028: leaf_003
+    4300030: leaf_002
+    4300032: Cylinder
+    4300034: leaf_020
+    4300036: leaf
+    4300038: leaf_026
+    4300040: leaf_025
+    4300042: leaf_024
+    4300044: leaf_012
+    4300046: leaf_010
+    4300048: leaf_008
+    4300050: leaf_006
+    4300052: leaf_004
+    4300054: leaf_001
+    7400000: Default Take
+    7400002: wind
+    11100000: //RootNode
+    13700000: Cylinder
+    13700002: leaf_002
+    13700004: leaf_003
+    13700006: leaf_005
+    13700008: leaf_007
+    13700010: leaf_009
+    13700012: leaf_011
+    13700014: leaf_013
+    13700016: leaf_014
+    13700018: leaf_015
+    13700020: leaf_016
+    13700022: leaf_017
+    13700024: leaf_018
+    13700026: leaf_019
+    13700028: leaf_021
+    13700030: leaf_022
+    13700032: leaf_023
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: wind
+      takeName: wind
+      firstFrame: -1
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

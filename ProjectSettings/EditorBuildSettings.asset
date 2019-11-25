@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/StartScene.unity
+    guid: 02fcec73afad97d4f9c92db9f3f50ffc
+  - enabled: 0
+    path: Assets/Scenes/HouseV2.unity
+    guid: 72d7cca0329f05240830cb801498efea
+  - enabled: 0
+    path: Assets/Scenes/TestScene1.unity
+    guid: 25e6a31e9a7d96b42b8a13ed72104b3c
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: e7ef946263fcba540a5c21855b915ec6
+  - enabled: 1
+    path: Assets/Scenes/HouseV3.unity
+    guid: 0e060220e78009541bfb7fdeffd393b3
+  - enabled: 1
+    path: Assets/Scenes/OutSide.unity
+    guid: 32209cd40e3d77442bfe504180eada43
+  - enabled: 1
+    path: Assets/Scenes/ShootingMiniGame.unity
+    guid: 093608bdcc8605f4887090a99caf963e
+  - enabled: 0
+    path: Assets/RPGPP_LT/Scene/rpgpp_lt_scene_1.0.unity
+    guid: d2809ab9b90eea7419d8d90d4c505d35
+  - enabled: 1
+    path: Assets/Scenes/EndProtoype.unity
+    guid: 8387439e650c437439bf60a514bcdb34
+  m_configObjects: {}
